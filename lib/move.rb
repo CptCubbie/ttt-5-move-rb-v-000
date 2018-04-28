@@ -10,6 +10,6 @@ def input_to_index(input)
   input.to_i - 1
 end
 # code your input_to_index and move method here!
-def move(board, index, value)
+def move(board, index, value="X")
 
 end
